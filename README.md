@@ -860,7 +860,7 @@ Some examples:
     sock.ws.on(`CB:edge_routing,id:abcd,routing_info`, (node: BinaryNode) => { })
     ```
 
-### Note
+### Note 
 
  This library was originally a project for **CS-2362 at Ashoka University** and is in no way affiliated with WhatsApp. Use at your own discretion. Do not spam people with this.
 
